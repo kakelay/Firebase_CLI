@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "277287862152",
+    "project_id": "phome-vertify",
+    "storage_bucket": "phome-vertify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277287862152:android:a54ae18fbb88503a1c043d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277287862152-tstu1pc3uqnat9dfiqdmok6rcagiauin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCbAg_Tnl-FB-r0tzWTZX8v4wrGiKUh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277287862152-tstu1pc3uqnat9dfiqdmok6rcagiauin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277287862152-4mg8jn8dqc4sj1cln750q3reqeu30ql2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCli.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
